@@ -1,6 +1,6 @@
 # Hi every, I'm with you with my first project!
 
-#### In this project, I tried to create a simple portfolio site using only HTML and CSS.
+#### In my first project, I tried to create a portfolio site using only HTML and CSS.
 
 #### Click demo to try it by yourself!
 
