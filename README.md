@@ -4,7 +4,7 @@
 
 #### Click demo to try it by yourself!
 
-#### You can view the site here [Click Me](https://ycelbeyli-first-project.netlify.app/)
+#### You can view the site here [Click Me](https://html-and-css-training-1.netlify.app/)
 
 # Topics
 <p align='left'>
